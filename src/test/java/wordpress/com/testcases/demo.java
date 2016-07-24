@@ -1,4 +1,4 @@
-package wordpress.com;
+package wordpress.com.testcases;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
